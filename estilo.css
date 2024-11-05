@@ -1,0 +1,48 @@
+*{
+   
+   margin: 0;
+}
+.cabeza{
+    background-color:rgb(252, 228, 199);
+    text-align: center; 
+    height: 80px;
+}
+.hhh{
+    font-size: 55px;
+}
+.peque{
+    font-size: 25px;
+}
+td{
+    border:1px solid white;
+    padding:10px;
+}
+.input{
+    height: 30px;
+    width: 300px;
+    text-align: center;
+}
+.cuerpo{
+    display: flex;
+   padding: 50px;
+    align-items: center;
+    text-align: center;
+   
+    gap: 30px;
+}
+.pie{
+    display: flex;
+    gap: 50px;
+   height: 240px;
+    background-color:rgb(252, 228, 199) ;
+}
+th{
+    width: 350px;
+
+}
+hr{
+    width: 250px;
+}
+.letra{
+    width: 500px;
+}
